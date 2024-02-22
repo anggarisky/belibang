@@ -1,17 +1,17 @@
-## About Belibang Project
+## Introduction to the Belibang Project
 
-I have finished to learn basic usage of Laravel Inertia React JS and a create a simple project called Belibang.
+I am pleased to announce the completion of my foundational training in Laravel, Inertia, and React JS, culminating in the development of a sophisticated project named Belibang.
 
-You can use this source code to open your own Gumroad-like marketplace to help people buy or sell their digital product such as ebook, course, template, etc.
+This project offers a comprehensive source code that facilitates the establishment of an online marketplace akin to Gumroad. It serves as a platform for individuals to purchase and sell digital products, including but not limited to ebooks, courses, and templates.
 
-Contact me at BuildWithAngga.
+For further inquiries or interest in this project, please contact me via BuildWithAngga.
 
-### Features
+### Project Features:
 
--   You can sign up as a buyer or seller at the same account
--   You can choose one of product from Discover page then buy it
--   As a seller, you can approve the order from someone who bought your product
--   RateLimiter to prevent users bombing download at the same product
--   Seller won't be able to buy their own products
--   Laravel Breeze to handle the Auth
--   Inertia with React JS to deliver seamlessly user experience
+-   Dual functionality allows users to register as either a buyer or a seller within the same account framework.
+-   The Discover page presents a curated selection of products for purchase.
+-   Sellers have the capability to authorize transactions, ensuring a secure and efficient sales process.
+-   The implementation of a RateLimiter feature mitigates the risk of excessive downloads on the same product, enhancing platform stability.
+-   A safeguard is in place to prevent sellers from purchasing their own products, maintaining the integrity of the marketplace.
+-   Authentication processes are streamlined and secure, thanks to the integration of Laravel Breeze.
+-   The combination of Inertia and React JS delivers an unparalleled user experience, characterized by seamless navigation and interaction.
